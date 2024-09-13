@@ -1,0 +1,15 @@
+GET /recaptcha/releases/EGbODne6buzpTnWrrBprcfAY/styles__rtl.css h2 
+Host: www.gstatic.com 
+sec-ch-ua: "Not)A;Brand";v="99", "Android WebView";v="127", "Chromium";v="127" 
+sec-ch-ua-mobile: ?1 
+user-agent: Mozilla/5.0 (Linux; Android 12; 22011119TI Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.105 Mobile Safari/537.36 
+sec-ch-ua-platform: "Android" 
+accept: text/css,*/*;q=0.1 
+x-requested-with: mark.via.gp 
+sec-fetch-site: cross-site 
+sec-fetch-mode: no-cors 
+sec-fetch-dest: style 
+referer: https://www.google.com/ 
+accept-encoding: gzip, deflate, br, zstd 
+accept-language: ar-EG,ar;q=0.9,en-US;q=0.8,en;q=0.7 
+priority: u=0 
